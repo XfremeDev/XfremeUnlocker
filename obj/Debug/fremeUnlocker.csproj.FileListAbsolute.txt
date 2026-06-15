@@ -1,0 +1,8 @@
+C:\Users\Valik\source\repos\fremeUnlocker\fremeUnlocker\bin\Debug\fremeUnlocker.exe.config
+C:\Users\Valik\source\repos\fremeUnlocker\fremeUnlocker\bin\Debug\fremeUnlocker.exe
+C:\Users\Valik\source\repos\fremeUnlocker\fremeUnlocker\bin\Debug\fremeUnlocker.pdb
+C:\Users\Valik\source\repos\fremeUnlocker\fremeUnlocker\obj\Debug\fremeUnlocker.csproj.AssemblyReference.cache
+C:\Users\Valik\source\repos\fremeUnlocker\fremeUnlocker\obj\Debug\fremeUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\Valik\source\repos\fremeUnlocker\fremeUnlocker\obj\Debug\fremeUnlocker.exe
+C:\Users\Valik\source\repos\fremeUnlocker\fremeUnlocker\obj\Debug\fremeUnlocker.pdb
+C:\Users\Valik\source\repos\fremeUnlocker\fremeUnlocker\obj\Debug\fremeUnlocker.exe.config
